@@ -3,52 +3,20 @@ PLAYBOY TV,http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108992
 X-Art 1,http://92.242.176.83:8096
 X-Art 2,http://92.242.176.83:8097
 X-Art 3,http://92.242.176.83:8098
-JStar极限台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
-JStar极限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
-JStar极限台,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
-JStar极限台,p2p://594.39.16.152:9906/6260e2b000004933172c99712568d815
-彩虹e,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
-彩虹e,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
-彩虹e,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
-彩虹e,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
-彩虹电影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹电影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
-彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-K频道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
-K频道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
-K频道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
-看电视,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-看电视,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
-看电视,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd
-看电视,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
-幻灯片电影,mitv://4506/6260e2b000004933172c99712568d815
-惊艳台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2 
-潘朵啦玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-潘朵啦玩美,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
-松视1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
-松视1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
-松视1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
-松视1,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
-松视2,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视2,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
-松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
-松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
-热,mitv://45.92.126.18:9906/6260e0070001ff07172235b9bb1b0cb6
-热,p2p://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
-热,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc2857
-快乐,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
-快乐,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
-快乐,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
-香蕉台,mitv://ns2.hellotvvod.com:9906/609ff09f146f412295a5c023fa5f5791
-香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+歐美二,mitv://fccs.word-tv.com:9906/62c7c8780004d2ba0adcea1fd011de8e
+歐美三,mitv://fccs.word-tv.com:9906/62c7c8cb0008dcf50ade2f602a0f4a7b
+松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
+松視3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
+奧視一,mitv://fccs.word-tv.com:9906/62ea99570009fc180029e3ef7f16b1cc
+潘朵拉完美,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+奧視二,mitv://fccs.word-tv.com:9906/62ea998700001707002a9ce6304bb302
+HAPPY,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
+驚豔台,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+香蕉台,mitv://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+極限台,mitv://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+彩虹電影,mitv://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
+LOOK,mitv://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
+彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057t
 香草天道,mitv://fccs.word-tv.com:9906/626b730a000f13ab0c686433a4aa22a5
 性愛教主,mitv://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
 ＶＥＮＵＳ,mitv://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
@@ -65,20 +33,16 @@ KMP 頻道,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
 櫻桃,mitv://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
 大學女援交妹,mitv://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
 做愛輸入,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
-歐美二,mitv://fccs.word-tv.com:9906/62c7c8780004d2ba0adcea1fd011de8e
-歐美三,mitv://fccs.word-tv.com:9906/62c7c8cb0008dcf50ade2f602a0f4a7b
-奧視一,mitv://fccs.word-tv.com:9906/62ea99570009fc180029e3ef7f16b1cc
-奧視二,mitv://fccs.word-tv.com:9906/62ea998700001707002a9ce6304bb302
-京彩1,p5p://crfccs.kingh888.com:16666/60ab6f2a000125b50f79f28b8f8bc416
-京彩2,p5p://crfccs.kingh888.com:16666/60ab6f18000750370f79adcf701ffea1
-京彩3,p5p://crfccs.kingh888.com:16666/60ab6efa000787ad0f7938ae568e03ff
-京彩4,p5p://crfccs.kingh888.com:16666/60ab6eea000b90780f78fb362da5bde6
-京彩5,p5p://crfccs.kingh888.com:16666/60ab6ed70002dde40f78aec43aa651ca
-京彩6,p5p://crfccs.kingh888.com:16666/60ab6ec40007e3700f7865d5af2800d9
-京彩7,p5p://crfccs.kingh888.com:16666/60ab6ea5000dc3580f77ee3eb0a503fc
-京彩8,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07
-京粉9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b
-京彩10,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
+HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571 
+潘多拉玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931 
+JSTAR極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+LOOK,p5p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
+驚艷成人電影,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2 
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1 
+松視➋,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce 
+松視➊,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
+彩虹E,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e 
+彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
 jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
 EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
 Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
@@ -202,8 +166,6 @@ Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 
-
-
 【麻豆映画】_1,#genre#
 龚菲菲,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ddad30f8/index.m3u8
 盼容,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ed00ba64/index.m3u8
@@ -252,8 +214,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 26,https://1xp60.cdnedge.live/file/avple-images/hls/62bd878ad0fa6a48496bbf5c/playlist.m3u8
 27,https://d862cp.cdnedge.live/file/avple-images/hls/62bd8531d0fa6a48496bbf5a/playlist.m3u8
 28,https://je40u.cdnedge.live/file/avple-images/hls/62bd84f5d0fa6a48496bbf59/playlist.m3u8
-
-
 
 【麻豆映画03】_1,#genre#
 01,https://1xp60.cdnedge.live/file/avple-images/hls/62bd8531d0fa6a48496bbf5a/playlist.m3u8
@@ -311,8 +271,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 53,https://1xp60.cdnedge.live/file/avple-images/hls/62b1b586eec8264ea0826f2a/playlist.m3u8
 54,https://10j99.cdnedge.live/file/avple-images/hls/62b1b45aeec8264ea0826f28/playlist.m3u8
 
-
-
 【麻豆映画05】_1,#genre#
 01,https://d862cp.cdnedge.live/file/avple-images/hls/62aed121c556631aff1378f2/playlist.m3u8
 02,https://8bb88.cdnedge.live/file/avple-images/hls/62aed1d5c556631aff1378f4/playlist.m3u8
@@ -352,8 +310,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 36,https://je40u.cdnedge.live/file/avple-images/hls/62aaca9721a7da2e6584bc7f/playlist.m3u8
 37,https://1xp60.cdnedge.live/file/avple-images/hls/62aacb0c21a7da2e6584bc80/playlist.m3u8
 38,https://q2cyl7.cdnedge.live/file/avple-images/hls/62a9bc9d21a7da2e6584bc7e/playlist.m3u8
-
-
 
 【麻豆映画06】_1,#genre#
 01,https://e2fa6.cdnedge.live/file/avple-images/hls/62a5afee94b044303b9622df/playlist.m3u8
@@ -398,7 +354,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 40,https://w9n76.cdnedge.live/file/avple-images/hls/629f660879f93b6e0966e237/playlist.m3u8
 41,https://q2cyl7.cdnedge.live/file/avple-images/hls/629f652a1b03d86e173f7d3d/playlist.m3u8
 42,https://q2cyl7.cdnedge.live/file/avple-images/hls/629f652a1b03d86e173f7d3c/playlist.m3u8
-
 寻宝吧女神EP4AV番外篇超激困绑地狱,https://10j99.cdnedge.live/file/avple-images/hls/629f63ec79f93b6e0966e236/playlist.m3u8
 用小穴汁援哥哥用功读书,https://8bb88.cdnedge.live/file/avple-images/hls/629f26bc79f93b6e0966e22f/playlist.m3u8
 小姨子的礼物,https://1xp60.cdnedge.live/file/avple-images/hls/629f289b79f93b6e0966e233/playlist.m3u8
@@ -428,8 +383,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 性爱餐厅1,https://10j99.cdnedge.live/file/avple-images/hls/629a03e862a22f14d4ef251c/playlist.m3u8
 父子轮啪家教老师,https://d862cp.cdnedge.live/file/avple-images/hls/629a01ce62a22f14d4ef251b/playlist.m3u8
 女体肉粽,https://zo392.cdnedge.live/file/avple-images/hls/629a011862a22f14d4ef251a/playlist.m3u8
-
-
 72,https://10j99.cdnedge.live/file/avple-images/hls/6298bad914bfa15d01c0842d/playlist.m3u8
 73,https://w9n76.cdnedge.live/file/avple-images/hls/62986aee23d5972db0bfc9a2/playlist.m3u8
 74,https://10j99.cdnedge.live/file/avple-images/hls/62986a7523d5972db0bfc9a1/playlist.m3u8
@@ -565,8 +518,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 204,https://8bb88.cdnedge.live/file/avple-images/hls/6280b2fbfc27be165aeb81d5/playlist.m3u8
 205,https://zo392.cdnedge.live/file/avple-images/hls/6280b245fc27be165aeb81d4/playlist.m3u8
 206,https://u89ey.cdnedge.live/file/avple-images/hls/6280b154fc27be165aeb81d2/playlist.m3u8
-
-
 
 【麻豆映画07】_1,#genre#
 01,https://8bb88.cdnedge.live/file/avple-images/hls/6290bf9287412532ac7f4cff/playlist.m3u8
@@ -773,8 +724,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 202,https://10j99.cdnedge.live/file/avple-images/hls/626a9b433d701068e96b4fdc/playlist.m3u8
 203,https://e2fa6.cdnedge.live/file/avple-images/hls/626a9b433d701068e96b4fdb/playlist.m3u8
 
-
-
 【麻豆映画08】_1,#genre#
 01,https://u89ey.cdnedge.live/file/avple-images/hls/6257f50aa840bf2dd2ce4358/playlist.m3u8
 02,https://10j99.cdnedge.live/file/avple-images/hls/6256da62bd3519566877455d/playlist.m3u8
@@ -957,8 +906,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 179,https://1xp60.cdnedge.live/file/avple-images/hls/623239d98cc9324f4943612d/playlist.m3u8
 180,https://e2fa6.cdnedge.live/file/avple-images/hls/62323a128cc9324f4943612e/playlist.m3u8
 
-
-
 【麻豆映画09】_1,#genre#
 01,https://d862cp.cdnedge.live/file/avple-images/hls/622fca68e14ae771445e4800/playlist.m3u8
 02,https://e2fa6.cdnedge.live/file/avple-images/hls/622fc8c1e14ae771445e47fd/playlist.m3u8
@@ -1101,8 +1048,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 139,https://w9n76.cdnedge.live/file/avple-images/hls/6209b3eef074eb1e0fe62717/playlist.m3u8
 140,https://1xp60.cdnedge.live/file/avple-images/hls/6209b42bf074eb1e0fe62718/playlist.m3u8
 
-
-
 【麻豆映画10】_1,#genre#
 01,https://w9n76.cdnedge.live/file/avple-images/hls/6206efe3c6e4cd6e597c7185/playlist.m3u8
 02,https://je40u.cdnedge.live/file/avple-images/hls/6206efa6c6e4cd6e597c7184/playlist.m3u8
@@ -1230,8 +1175,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 124,https://w9n76.cdnedge.live/file/avple-images/hls/61e24ac99e31551b4fa3beaf/playlist.m3u8
 125,https://10j99.cdnedge.live/file/avple-images/hls/61e249d99e31551b4fa3bead/playlist.m3u8
 126,https://zo392.cdnedge.live/file/avple-images/hls/61e249259e31551b4fa3beab/playlist.m3u8
-
-
 
 【麻豆映画11】_1,#genre#
 01,https://10j99.cdnedge.live/file/avple-images/hls/61e11a91b12f2d3579c3423f/playlist.m3u8
@@ -1377,8 +1320,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 141,https://e2fa6.cdnedge.live/file/avple-images/hls/61bad1f1d56b7626e975d4ea/playlist.m3u8
 142,https://d862cp.cdnedge.live/file/avple-images/hls/61bad13dd56b7626e975d4e8/playlist.m3u8
 143,https://je40u.cdnedge.live/file/avple-images/hls/61b97d650d486a09e8730583/playlist.m3u8
-
-
 
 【麻豆映画12】_1,#genre#
 01,https://1xp60.cdnedge.live/file/avple-images/hls/61b97d650d486a09e8730583/playlist.m3u8
@@ -1636,8 +1577,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 253,https://10j99.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 254,https://je40u.cdnedge.live/file/avple-images/hls/6173085d16713849c8fc4703/playlist.m3u8
 
-
-
 【麻豆映画13】_1,#genre#
 01,https://10j99.cdnedge.live/file/avple-images/hls/6171a981f8003d17dfd1a739/playlist.m3u8
 02,https://1xp60.cdnedge.live/file/avple-images/hls/6171a909f8003d17dfd1a738/playlist.m3u8
@@ -1653,8 +1592,6 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 12,https://1xp60.cdnedge.ive/file/avple-images/hls/61628f7ec778383b6b882d05/playlist.m3u8
 13,https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 14,https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
-
-
 
 【麻豆映画14】_1111,#genre#
 02,https://47b61.cdnedge.live/file/avple-images/hls/6167172d51121708a790a1b9/playlist.m3u8
@@ -1751,13 +1688,11 @@ MKY-SL-001夏夜靡遗女友身上的蚊子-舒可芯,https://u89ey.cdnedge.live
 648,https://47b61.cdnedge.live/file/avple-images/hls/60705b9190160a18a06bac75/playlist.m3u8
 650,https://47b61.cdnedge.live/file/avple-images/hls/6070548990160a18a06bac73/playlist.m3u8
 657,https://47b61.cdnedge.live/file/avple-images/hls/606eedf13d938869f8b4803e/playlist.m3u8
-
 学院派女神性急在车上就脱裤搞起后入大屁股,http://1465.vod.adultiptv.net/ph5b7ee27f31261/play.m3u8
 中国女孩在监狱第4部分,http://13216.vod.redtraffic.xyz/ph57e3d9618a6bd/play.m3u8
 中国女孩的后台裸照,http://1244.vod.adultiptv.net/ph57c46d6c4cbde/play.m3u8
 风骚中介的特别销售,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/6acb23d5/index.m3u8
 大学的幸福生活,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/83fec728/index.m3u8
-
 
 【中文无码】_1,#genre#
 031515-828 上原亚衣初次下马无套内射,https://v.didivod.com/20220715/kVw2VQKy/index.m3u8
@@ -1784,6 +1719,7 @@ Carib 110218-784 仲村さり くわえたい冲动のエロカワ美女 〜喉�
 102518_760 一根肉棒不能满足！ 东山実,https://v.didivod.com/20220817/VjqTvnaA/index.m3u8
 KIRARI 90 榨干你三次还不罢休的极上无毛女优Ray,https://v.didivod.com/20220817/KLe5s3wJ/index.m3u8
 HEYZO 1530 我的肉穴狂洩不止～床上的大洪水～ – 橘优奈,https://v.didivod.com/20220817/8BQLHNkF/index.m3u8
+
 【日本AV】_1,#genre#
 性感按摩师,https://fc.imgscloud.com/e/cmmcpqeiqt/cmmcpqeiqt.m3u8
 小林初花,https://fc.imgscloud.com/e/gadthdaocc/gadthdaocc.m3u8
@@ -1817,8 +1753,6 @@ Beanpaste,https://fc.imgscloud.com/c/edgnokzuzi/edgnokzuzi.m3u8
 韩国戏剧丑闻热点1,http://218158.vod.adultiptv.net/ph561bb30a091ac/play.m3u8
 小亞洲人16-場景3,http://1244.vod.redtraffic.xyz/ph56b4299c58ba3/play.m3u8
 无码影片,https://d3vfgw5crbffaq.cloudfront.net/20200109/FC2PPV-1224188/index.m3u8
-
-
 
 【一本道AV】_1,#genre#
 一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
@@ -1870,8 +1804,6 @@ Beanpaste,https://fc.imgscloud.com/c/edgnokzuzi/edgnokzuzi.m3u8
 一本道720P50,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-112715_197/index.m3u8
 一本道720P50部,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
 
-
-
 【东热AV】_1,#genre#
 东热720P04,https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
 东热720P05,https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
@@ -1900,8 +1832,6 @@ Beanpaste,https://fc.imgscloud.com/c/edgnokzuzi/edgnokzuzi.m3u8
 东热720P30,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0438/index.m3u8
 东热720P31,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0437/index.m3u8
 东热720P32部,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
-
-
 
 【欧美AV】_1,#genre#
 女同性戀瑜伽課,http://6122.vod.redtraffic.xyz/ph5906b6976f9b1/play.m3u8
@@ -1963,8 +1893,6 @@ LittleSexyPeach,http://12156.vod.redtraffic.xyz/ph579ab5f587c18/play.m3u8
 服务帕梅拉的屁股,http://12204.vod.redtraffic.xyz/ph5bdf1d4051ae3/play.m3u8
 服从-绿眼的青少年提交到粗暴操,http://218158.vod.adultiptv.net/ph5a7a092c194dd/play.m3u8
 （LonnyBall）兄弟在金发碧眼的紧猫大鲍尔品牌上灌篮,http://1465.vod.adultiptv.net/ph5b2855494e20b/play.m3u8
-
-
 TeenyInAsianSuperSkyScraper,http://11216.vod.adultiptv.net/ph55988ed3a5862/play.m3u8
 黑人夫妇因混乱而使用白色女仆作为玩偶,http://12204.vod.adultiptv.net/ph5be5922ac9898/play.m3u8
 黑人女孩,http://12204.vod.redtraffic.xyz/ph5bbd6664a1f61/play.m3u8
