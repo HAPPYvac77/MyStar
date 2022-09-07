@@ -2392,6 +2392,7 @@ sm制服控,http://02b.expo-hf.com/live/cx_357227.flv
 柠檬苏打水,http://l1.iiun666.cn/live/cx_11076.flv
 红杏小粉妹,http://l1.iiun666.cn/live/cx_15152.flv
 大腿之间,http://la.dn8rg.cn/live/cx_12345.flv
+
 小羊(穩定直播),#genre#
 民視,P2p://ns2.hellotvvod.com:9906/5121c7a5b7844be693683f5210c45cf4
 人間衛視,P2p://ns2.hellotvvod.com:9906/440a155e05d849beba4ced78210b8e70
@@ -2554,6 +2555,7 @@ EYE TV戲劇台,P2p://ns2.hellotvvod.com:9906/b04459a7095546568c1d81c31b48b60e
 台視新聞台,P2p://ns2.hellotvvod.com:9906/1109090677cf4568b5d281acaffb16bb
 寰宇新聞臺灣台,P2p://ns2.hellotvvod.com:9906/9b27b09378424d1a985f6ff508f0f418
 台視財經台,P2p://ns2.hellotvvod.com:9906/6e809a59861d4a648adbe1161aa09320
+
 小羊M源,#genre#
 民視 HD,mitv://fccs.word-tv.com:9906/62582da100098ec20f1c5c4698b437cf
 人間衛視 ,mitv://fccs.word-tv.com:9906/62582fff0009dab60f259b89f7464d63
@@ -2701,6 +2703,7 @@ CinemaWorld,mitv://fccs.word-tv.com:9906/626750ba0002f9431646d0630173b458
 華視體育文化教育,mitv://fccs.word-tv.com:9906/62692aad0004ff59037db656efdee736
 華視資訊,mitv://fccs.word-tv.com:9906/62692acf000c5e7a037e3d0919397c0a
 公視3,mitv://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
+
 小羊直播源,#genre#
 衛視中文台,http://61.219.170.95:18522/hls/62/804/ch05.m3u8
 衛視中文台,http://59.125.122.90:18522/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
@@ -2959,6 +2962,7 @@ TVBS新聞台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天新聞,https://epg.pm/stream/5a2b674f6a795e7dfb7d6e8a3d6d31d2067e3c4080844938ebafaacc40bcc9d7.m3u8
 中視新聞,https://epg.pm/stream/3424fe5c5c950cf105fcff7c1e99bf9ab5ccbfa9da5f7fa7882416bcf619ac43.m3u8
 東森幼幼台(備用),https://git.io/JgYON
+
 小羊R源,#genre#
 台視,rtmp://59.124.75.150/sat/tv071
 緯來日本,rtmp://59.124.75.138:1935/sat/tv771
@@ -3012,6 +3016,7 @@ TVBS新聞,rtmp://59.124.75.138/sat/tv551
 TVBS歡樂台,rtmp://59.124.75.138:1935/sat/tv421
 東森財經,rtmp://59.124.75.138/sat/tv571
 東森超視,rtmp://59.124.75.138:1935/sat/tv331
+
 小羊成人直播,#genre#
 松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
 松視1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
@@ -3069,6 +3074,7 @@ KMP頻道,P2p://54.39.16.152:9906/626b7417000ebc0c0c6c7ee48913e1f0
 做愛輸入,P2p://54.39.16.152:9906/626b7455000e15fa0c6d70eac57e0110
 直播東南亞美女團,http://01b.expo-hf.com/live/cx_358601.flv
 直播一隻小野貓,http://san.shengshuishi.cn/live/cx_12640.flv
+
 小羊成人直播備用,#genre#
 彩虹e台,mitv://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影台,mitv://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
@@ -3084,6 +3090,7 @@ JStar極限台電影頻道,mitv://54.39.16.152:9906/6260e061000b04ae172397987c1e
 松視3台,mitv://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
 Hot,mitv://54.39.16.152:9906/6260e0070001ff07172235b9bb1b0cb6
 Happy,mitv://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
+
 小羊AV直播,#genre#
 JStar極限台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
 彩虹e,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
@@ -3132,6 +3139,7 @@ HOT歐美版,http://live.redtraffic.xyz:80/hardcore.m3u8
 玩美台歐美版,http://live.redtraffic.xyz:80/pov.m3u8
 二本道歐美版,http://live.redtraffic.xyz:80/blowjob.m3u8
 櫻花台歐美版,http://live.redtraffic.xyz:80/russian.m3u8
+
 小羊新成人直播,#genre#
 松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
 松視2,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
@@ -3224,6 +3232,7 @@ HOT,p3p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1
 前澤小百合,https://fc.imgscloud.com/f/vrtpyyczpf/vrtpyyczpf.m3u8
 無碼影片,https://d3vfgw5crbffaq.cloudfront.net/20200109/FC2PPV-1224188/index.m3u8
 日韓無碼1,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/120614-753/index.m3u8
+
 小羊4GTV直播源,#genre#
 民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 民視台灣台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
@@ -3278,6 +3287,7 @@ DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-liv
 精選動漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 華語戲劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
+
 小羊體育,#genre#
 緯來體育,rtmp://59.124.75.138/sat/tv721
 緯來體育,http://218.32.47.179:18563/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
@@ -3375,6 +3385,7 @@ WWE摔角,http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032
 籃球5,http://txtest-xp2p.p2p.huya.com/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.xs
 籃球7,http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.xs
 籃球8,http://txtest-xp2p.p2p.huya.com/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.xs
+
 小羊電影,#genre#
 HBO 英文,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 HBO 2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -3428,6 +3439,7 @@ HBO 2台,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 經典港整風整蠱電影,http://epg.112114.xyz/huya/11602058
 電視劇,http://mmitv.top/pltv/yy.php?id=1453059740
 電視劇,http://mmitv.top/pltv/yy.php?id=29216766
+
 小羊卡通,#genre#
 Baby TV,http://218.32.47.179:18514/http/192.168.1.9:8078/hls/35/80/babytv.m3u8
 東森幼幼,https://git.io/JgYON
