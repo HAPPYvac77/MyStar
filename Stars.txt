@@ -1,3 +1,7 @@
+🔞20220907,#genre#
+TVBS新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+##
+
 🧲玩轉原力,#genre#
 感谢祭,https://siwazywcdn2.com:5278/zhongwenzimu/LmePT34f/index.m3u8
 感谢祭,https://siwazywcdn2.com:5278/zhongwenzimu/BpDhA5SX/index.m3u8
@@ -116,10 +120,6 @@
 葡萄,https://pt1.putaozy.info/20220902/133ED3898BB23A4A/hls/1000k/index.m3u8
 葡萄,https://pt1.putaozy.info/20220902/DB13273EFFB4E37D/hls/1000k/index.m3u8
 葡萄,https://pt1.putaozy.info/20220902/12F64411D7314A11/hls/1000k/index.m3u8
-
-🔞20220907,#genre#
-TVBS新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-##
 
 Japan,#genre#
 彩虹e,mitv://ns2.hellotvvod.com:9906/94c57d70e6a542e58226e0ab34f32082
@@ -3674,3 +3674,7 @@ sm制服控,http://02b.expo-hf.com/live/cx_357227.flv
 柠檬苏打水,http://l1.iiun666.cn/live/cx_11076.flv
 红杏小粉妹,http://l1.iiun666.cn/live/cx_15152.flv
 大腿之间,http://la.dn8rg.cn/live/cx_12345.flv
+
+🏁End,#genre#
+TVBS新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+##
