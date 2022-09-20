@@ -3985,10 +3985,13 @@ ALBA XXX1,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12106/index.m3u8
 Mommy,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12155/index.m3u8
 Wicked,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12154/index.m3u8
 Erotic8,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12153/index.m3u8
-France Lover,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12124/index.m3u8
-Pure Babes,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12112/index.m3u8
-KinoXXX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11052/index.m3u8
-OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
+Erotic7,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12152/index.m3u8
+Erotic6,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12151/index.m3u8
+Erotic5,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12150/index.m3u8
+Erotic4,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12149/index.m3u8
+Erotic3,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12148/index.m3u8
+Erotic2,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12147/index.m3u8
+Erotic,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12146/index.m3u8
 XYPlus,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12115/index.m3u8
 XXPlus,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12116/index.m3u8
 XYPlus1,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12117/index.m3u8
@@ -4000,6 +4003,23 @@ X1,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12122/index.m3u8
 LeoTV HD,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12123/index.m3u8
 France Lover,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12124/index.m3u8
 Meiden Holland,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12125/index.m3u8
+PureBabes,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12112/index.m3u8
+BrazzersEurope,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12113/index.m3u8
+UBang,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12114/index.m3u8
+XYPlus,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12115/index.m3u8
+XXPlus,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12116/index.m3u8
+XYPlus1,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12117/index.m3u8
+XYPlus2,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12118/index.m3u8
+XYPlus3,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12119/index.m3u8
+PassionXXXMILF,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12120/index.m3u8
+SuperOne,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12121/index.m3u8
+X1,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12122/index.m3u8
+LeoTV HD,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12123/index.m3u8
+France Lover,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12124/index.m3u8
+Meiden Holland,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12125/index.m3u8
+Extasy,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11051/index.m3u8
+KinoXXX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11052/index.m3u8
+OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
 
 测试1,#genre#
 🌲松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
